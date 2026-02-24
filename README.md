@@ -50,3 +50,10 @@ This codebase is utilized for educational and research purposes. Current ongoing
 
 ## 🤝 Contributing
 Feel free to open issues or submit Pull Requests if you have suggestions for code optimization, security patches, or deployment automation.
+
+## ⚖️ Disclaimer & License (Tuyên bố miễn trừ trách nhiệm)
+
+**WARNING** This repository is a fork and contains reversed/leaked source code of the game DDTank. 
+* **No Copyright Infringement Intended:** All intellectual property rights, trademarks, and copyrights belong to their respective original owners (e.g., 7Road).
+* **Educational Purpose Only:** This repository is maintained strictly for personal research, educational purposes, and portfolio demonstration (focusing on system architecture, C# security vulnerabilities, and DevOps deployment practices). 
+* **No Commercial Use:** This code is not intended for commercial use or for running public servers for profit.

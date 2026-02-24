@@ -51,7 +51,7 @@ This codebase is utilized for educational and research purposes. Current ongoing
 ## 🤝 Contributing
 Feel free to open issues or submit Pull Requests if you have suggestions for code optimization, security patches, or deployment automation.
 
-## ⚖️ Disclaimer & License (Tuyên bố miễn trừ trách nhiệm)
+## ⚖️ Disclaimer & License
 
 **WARNING** This repository is a fork and contains reversed/leaked source code of the game DDTank. 
 * **No Copyright Infringement Intended:** All intellectual property rights, trademarks, and copyrights belong to their respective original owners (e.g., 7Road).

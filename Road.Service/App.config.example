@@ -1,4 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  EXAMPLE CONFIGURATION FILE
+  ==========================
+  1. Copy this file to App.config (remove .example extension)
+  2. Replace YOUR_PASSWORD_HERE with your actual SQL Server password
+  3. Replace RSA placeholder values with your actual RSA private key components
+  4. Update Data Source, Initial Catalog, and User ID as needed
+  5. Never commit the actual App.config with real credentials to git
+-->
 <configuration>
 	<appSettings>
 		<!--Must Config-->

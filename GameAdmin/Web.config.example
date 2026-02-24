@@ -1,5 +1,12 @@
 <?xml version="1.0"?>
 <!--
+  EXAMPLE CONFIGURATION FILE
+  ==========================
+  1. Copy this file to Web.config (remove .example extension)
+  2. Replace YOUR_PASSWORD_HERE with your actual SQL Server password
+  3. Update Data Source, Initial Catalog, and User ID as needed
+  4. Never commit the actual Web.config with real credentials to git
+
   For more information on how to configure your ASP.NET application, please visit
   http://go.microsoft.com/fwlink/?LinkId=169433
   -->

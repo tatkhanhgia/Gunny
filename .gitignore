@@ -44,6 +44,15 @@ pnpm-lock.yaml
 .env*
 !.env.example
 
+# Config files with secrets - use .example files as templates
+# IMPORTANT: Copy *.config files to *.config.example, customize, and never commit actual configs with secrets
+# See README.md for configuration instructions
+
+# Build artifacts (contain cached credentials)
+**/bin/
+**/obj/
+**/.vs/
+
 # vercel
 .vercel
 

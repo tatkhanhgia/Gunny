@@ -1,4 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  EXAMPLE CONFIGURATION FILE
+  ==========================
+  1. Copy this file to Web.config (remove .example extension)
+  2. Replace YOUR_PASSWORD_HERE with your actual SQL Server password
+  3. Replace RSA placeholder values with your actual RSA private key components
+  4. Replace LoginKey, ChargeKey, and SentRewardKey with your actual keys
+  5. Update Data Source, Initial Catalog, and User ID as needed
+  6. Never commit the actual Web.config with real credentials to git
+-->
 <configuration>
 	<configSections>
 		<section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,log4net" />
